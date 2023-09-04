@@ -1,6 +1,6 @@
 # Can-You-Beat-Me-at-Checkers
 
-This a is a basic implementation of min-max algorithm for the game checkers on pygame.
+This ai is a basic implementation of min-max algorithm for the game checkers on pygame.
 
 
 ## Initial Board 
